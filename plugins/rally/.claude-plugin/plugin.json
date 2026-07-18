@@ -1,0 +1,8 @@
+{
+  "name": "rally",
+  "description": "バイブコーディング品質担保プラグイン。AI の質問と人間の回答・反例の往復で仕様を確定させる。",
+  "version": "0.1.1",
+  "author": {
+    "name": "Anlan"
+  }
+}

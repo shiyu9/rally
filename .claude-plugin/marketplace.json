@@ -1,0 +1,16 @@
+{
+  "name": "rally",
+  "owner": { "name": "Anlan" },
+  "metadata": {
+    "description": "AI の質問と人間の反例出しの往復で仕様を確定させる、バイブコーディング品質担保プラグイン"
+  },
+  "plugins": [
+    {
+      "name": "rally",
+      "source": "./plugins/rally",
+      "description": "壁打ちインタビューで仕様を確定し、E2E・ADR・観点表を自動で維持するバイブコーディング品質担保プラグイン",
+      "version": "0.1.0",
+      "author": { "name": "Anlan" }
+    }
+  ]
+}
